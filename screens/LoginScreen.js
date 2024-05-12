@@ -16,6 +16,7 @@ const LoginScreen = () => {
       Alert.alert('Login Error', 'Please fill in all fields.');
       return;
     }
+    
 
     try {
       const response = await fetch('https://dummyjson.com/auth/login', {
