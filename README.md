@@ -37,10 +37,10 @@ npm start
 
 4. Follow the instructions in the terminal to run the app on an emulator or device.
 
-API References:
+## API References:
 
-Pexels API: Used to fetch video content.
-Dummy JSON Auth API: Used for user authentication.
+**Pexels API:** Used to fetch video content.
+**Dummy JSON Auth API:** Used for user authentication.
 
-Get users from : https://dummyjson.com/users
-use the users info from the above link to login.
+Get users from: **https://dummyjson.com/users**
+use the user's info from the above link to login.
