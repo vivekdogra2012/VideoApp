@@ -24,7 +24,7 @@ This is a simple React Native video app that allows users to browse and watch vi
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/vivekdogra2012/VideoApp.git
 
 2. Install dependencies:
 
