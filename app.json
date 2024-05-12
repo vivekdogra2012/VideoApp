@@ -2,7 +2,10 @@
   "expo": {
     "name": "VideoApp",
     "slug": "VideoApp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "plugins": [
+      "expo-video"
+    ]
   },
   "name": "VideoApp"
 }
